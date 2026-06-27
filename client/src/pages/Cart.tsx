@@ -24,7 +24,7 @@ export default function Cart() {
   const [isSubmitting, setIsSubmitting] = useState(false);
 
   const totalPrice = getTotalPrice();
-  const whatsappNumber = '905555555555'; // Replace with your WhatsApp number
+  const whatsappNumber = '905316255666'; // Replace with your WhatsApp number
 
   const handleCheckout = async (e: React.FormEvent) => {
     e.preventDefault();
